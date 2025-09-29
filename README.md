@@ -7,7 +7,7 @@
 
 About Me  
 Hi, I’m **Chandeepa Kumarasinghe**.  
-I’m from **Sri Lanka**, a beautiful tropical island once called **Ceylon**.  
+I’m from **Sri Lanka**, a beautiful tropical island called **Ceylon**.  
 🌍 I’m a **Full-Stack Web Developer**.  
 🎓 Graduated from **Plymouth University, UK**.  
 
