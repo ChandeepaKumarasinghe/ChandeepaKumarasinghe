@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+About Me  
 
 <div align="center">
 
