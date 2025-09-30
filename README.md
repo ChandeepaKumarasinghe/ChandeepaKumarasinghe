@@ -3,20 +3,16 @@
 </h1>
 
 </div>
-
----
-
-About Me  
+<p align="center">
+  About Me</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=I’m+from+Sri+Lanka+(Ceylon);🌍+Full-Stack+Web+Developer;🎓+Plymouth+University,+UK" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=I’m+from+Sri+Lanka+(Ceylon);+Full-Stack+Web+Developer;+Plymouth+University,+UK" alt="Typing Animation" />
 
 </div>
-
----
-
-Tech Stack  
+<p align="center">
+Tech Stack </p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -31,10 +27,8 @@ Tech Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </div>
-
-
----
-Socials  
+<p align="center">
+Socials </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/chandeepa-kumarasinghe-635802248/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" style="border-radius:50%"></a>
