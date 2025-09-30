@@ -1,15 +1,18 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=35&pause=1000&color=F5FFFA&center=true&vCenter=true&width=600&lines=Chandeepa+Kumarasinghe" alt="Typing Animation" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=35&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hey+👋,+I'm+Chandeepa+Kumarasinghe" alt="Typing Animation" />
 </h1>
+
 </div>
 
 ---
 
-About Me  
-Hi, I’m **Chandeepa Kumarasinghe**.  
-I’m from **Sri Lanka**, a beautiful tropical island called **Ceylon**.  
-🌍 I’m a **Full-Stack Web Developer**.  
-🎓 Graduated from **Plymouth University, UK**.  
+## 👨‍💻 About Me  
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=I’m+from+Sri+Lanka+(Ceylon);🌍+Full-Stack+Web+Developer;🎓+Plymouth+University,+UK" alt="Typing Animation" />
+
+</div>
 
 ---
 
